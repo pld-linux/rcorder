@@ -10,7 +10,7 @@ Source0:	http://test.mmt.pl/pld/rcorder/%{name}-%{version}.tar.gz
 # Source0-md5:	4bad517b3b8809cf1994dea0c76e4002
 URL:		http://www.freebsd.org/cgi/cvsweb.cgi/src/sbin/rcorder/
 BuildRequires:	autoconf >= 2.59
-BuildRequires:	automake >= 1.8.2
+BuildRequires:	automake >= 1:1.8.2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
