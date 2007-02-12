@@ -1,5 +1,5 @@
 Summary:	rcorder prints a dependency ordering of interdependent files
-Summary(pl):	rcorder - wypisywanie kolejno∂ci zaleøno∂ci wspÛ≥zaleønych plikÛw
+Summary(pl.UTF-8):   rcorder - wypisywanie kolejno≈õci zale≈ºno≈õci wsp√≥≈Çzale≈ºnych plik√≥w
 Name:		rcorder
 Version:	20040522
 Release:	0.1
@@ -21,12 +21,12 @@ must be executed before others. rcorder comes from NetBSD. NetBSD and
 FreeBSD use it for ordering start sequence in their boot scripts.
 This package is a Linux port.
 
-%description -l pl
-Rcorder wypisuje kolejno∂Ê zaleøno∂ci wspÛ≥zaleønych plikÛw. Zazwyczaj
-jest uøywany do znajdywania prawid≥owej sekwencji uruchamiania
-skryptÛw, w ktÛrych kolejno∂Ê uruchamiania jest waøna. NarzÍdzie to
-wywodzi siÍ z NetBSD gdzie, tak jak we FreeBSD, jest uøywane do
-ustalania kolejno∂ci uruchamiania us≥ug podczas startu systemu. Ten
+%description -l pl.UTF-8
+Rcorder wypisuje kolejno≈õƒá zale≈ºno≈õci wsp√≥≈Çzale≈ºnych plik√≥w. Zazwyczaj
+jest u≈ºywany do znajdywania prawid≈Çowej sekwencji uruchamiania
+skrypt√≥w, w kt√≥rych kolejno≈õƒá uruchamiania jest wa≈ºna. Narzƒôdzie to
+wywodzi siƒô z NetBSD gdzie, tak jak we FreeBSD, jest u≈ºywane do
+ustalania kolejno≈õci uruchamiania us≈Çug podczas startu systemu. Ten
 pakiet zawiera port linuksowy.
 
 %prep
