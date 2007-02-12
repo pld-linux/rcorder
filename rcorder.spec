@@ -1,5 +1,5 @@
 Summary:	rcorder prints a dependency ordering of interdependent files
-Summary(pl.UTF-8):   rcorder - wypisywanie kolejności zależności współzależnych plików
+Summary(pl.UTF-8):	rcorder - wypisywanie kolejności zależności współzależnych plików
 Name:		rcorder
 Version:	20040522
 Release:	0.1
